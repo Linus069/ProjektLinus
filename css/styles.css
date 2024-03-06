@@ -76,8 +76,8 @@
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
   --bs-link-color: #1265a8 ;
-  --bs-link-hover-color: #cca000;
-  --bs-code-color: #d63384;
+  --bs-link-hover-color: #1265a8;
+  --bs-code-color: #292527;
   --bs-highlight-bg: #fff4cc;
 }
 
@@ -2859,8 +2859,8 @@ textarea.form-control-lg {
   --bs-btn-bg: #1265a8 ;
   --bs-btn-border-color: #1265a8 ;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #d9aa00;
-  --bs-btn-hover-border-color: #cca000;
+  --bs-btn-hover-bg: #74ddf0;      
+  --bs-btn-hover-border-color: #74ddf0;
   --bs-btn-focus-shadow-rgb: 255, 208, 38;
   --bs-btn-active-color: #fff;
   --bs-btn-active-bg: #cca000;
